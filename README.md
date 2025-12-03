@@ -3,7 +3,7 @@ My mission? To turn NCERT chapters into game chapters that make learning fun, ef
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-samarth-60919128a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-samarth-60919128a/) 
 
 ## Live Projects :
 [![Looksyy - Ecommerce ]](https://www.looksyy.in/)
