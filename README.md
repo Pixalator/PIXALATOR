@@ -1,35 +1,10 @@
 # 💫 About Me:
-I am a Full-Stack Developer specializing in ERP-based applications and scalable e-commerce platforms, with a strong focus on building reliable, efficient, and maintainable systems.
+If your business is losing time to spreadsheets, manual processes, disconnected systems, or operational bottlenecks, I'm the person who enjoys fixing those problems.
 
+I build technology that makes businesses run better—whether that's ERP systems, workflow automation, e-commerce platforms, internal tools, or mobile applications. My approach starts with understanding operations, identifying inefficiencies, and then designing solutions that create measurable impact.
 
-
-My expertise is primarily in backend engineering, including API design, database management, authentication, and business-critical workflows such as orders, roles, inventory, payments, and real-time updates.
-
-
-
-I am also learning game development as a secondary skill, exploring game servers and system architecture to strengthen my understanding of performance and scalability. I aim to build high-impact software that is both technically robust and well-designed.
-
-
-
-🧩 Core Focus Areas
-
-Primary: Full-Stack Web Development
-
-Expertise: ERP-Based Applications & E-commerce Platforms
-
-Backend Engineering & API Design
-
-Database Architecture & Business Logic
-
-Authentication, Roles & Permissions
-
-Secondary: Game Development & Game Server Architecture
-
-
-
-🔗 Keywords
-
-Full-Stack Developer, Backend Engineer, ERP Systems, E-commerce Development, API Design, Web Applications, Game Development, Game Servers.<br>
+Over the past few years, I've worked closely with business owners, factory managers, and operational teams to transform complex workflows into scalable digital systems. I don't just write code—I solve business problems through technology.
+<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Samarth-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-samarth-60919128a/)
