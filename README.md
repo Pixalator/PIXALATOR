@@ -1,5 +1,35 @@
 # 💫 About Me:
-My mission? To turn NCERT chapters into game chapters that make learning fun, effective, and unforgettable! 🚀<br><br>I'm on a journey to blend game design with education, transforming complex topics into immersive, interactive experiences. By fusing the power of Edu-Games, gamification, and learning through play, I aim to revolutionize how students learn and engage with academic content.<br><br>💻 I'm also a backend developer, currently learning about game servers to power these educational experiences—ensuring the tech behind the games is as solid as the gameplay itself.<br><br>By combining web development skills with creative game design and gamification, I’m working to level up the way students learn.<br>
+I am a Full-Stack Developer specializing in ERP-based applications and scalable e-commerce platforms, with a strong focus on building reliable, efficient, and maintainable systems.
+
+
+
+My expertise is primarily in backend engineering, including API design, database management, authentication, and business-critical workflows such as orders, roles, inventory, payments, and real-time updates.
+
+
+
+I am also learning game development as a secondary skill, exploring game servers and system architecture to strengthen my understanding of performance and scalability. I aim to build high-impact software that is both technically robust and well-designed.
+
+
+
+🧩 Core Focus Areas
+
+Primary: Full-Stack Web Development
+
+Expertise: ERP-Based Applications & E-commerce Platforms
+
+Backend Engineering & API Design
+
+Database Architecture & Business Logic
+
+Authentication, Roles & Permissions
+
+Secondary: Game Development & Game Server Architecture
+
+
+
+🔗 Keywords
+
+Full-Stack Developer, Backend Engineer, ERP Systems, E-commerce Development, API Design, Web Applications, Game Development, Game Servers.<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Samarth-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-samarth-60919128a/)
